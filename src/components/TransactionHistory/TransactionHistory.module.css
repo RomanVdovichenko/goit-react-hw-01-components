@@ -1,0 +1,15 @@
+.transaction_history {
+    margin: 40px auto;
+    border-collapse: collapse;
+    width: 50%;
+}
+
+.table_cell {
+    padding: 10px;
+    text-align: center;
+    border: 1px solid #aaa;
+}
+
+.table_head {
+    background-color: rgb(122, 232, 238);
+}
